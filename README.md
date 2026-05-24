@@ -122,17 +122,6 @@ Relevant coursework: Data Structures & Algorithms, Database Management Systems, 
 **Smart Drug Dispensing System Using ESP32**  
 Presented at the International Conference on Inventive Computation Technologies, ICICT 2025, and published in IEEE.
 
-## What I'm Looking For
-
-I am open to internship and full-time opportunities in:
-
-- AI Automation Engineering
-- RPA Development
-- Data Science
-- AI/ML Engineering
-- Software Development
-- Intelligent Process Automation
-
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/sainatha
