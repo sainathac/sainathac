@@ -121,6 +121,7 @@ Relevant coursework: Data Structures & Algorithms, Database Management Systems, 
 
 **Smart Drug Dispensing System Using ESP32**  
 Presented at the International Conference on Inventive Computation Technologies, ICICT 2025, and published in IEEE.
+Here's the URL - https://ieeexplore.ieee.org/document/11005088
 
 ## Connect
 
