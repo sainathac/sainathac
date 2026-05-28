@@ -4,6 +4,12 @@ This page keeps the full certification list separate from the main profile READM
 
 ## AI, Data Science & Agentic AI
 
+### Claude Certified Architect - Foundations
+
+- Issuer: Anthropic
+- Issued: May 2026
+- Credential ID: `2if589tc2wup`
+
 ### Executive Post Graduate Certification in Data Science & Artificial Intelligence
 
 - Issuer: Intellipaat
