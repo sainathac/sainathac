@@ -166,3 +166,44 @@ Repository: https://github.com/sainathac/imdb-sentiment-rnn
 - Trains a SimpleRNN-based sentiment classifier on the Keras IMDB review dataset.
 - Covers vocabulary limiting, sequence padding, embeddings, validation, and test evaluation.
 - Serves as a baseline NLP deep learning project for sequence modeling and sentiment analysis.
+
+## Data Analytics Projects
+
+End-to-end data analysis projects covering EDA, business insight extraction, and interactive dashboards using Python and Power BI.
+
+### Superstore Profit Analytics
+
+Repository: https://github.com/sainathac/superstore-profit-analytics
+
+Performed end-to-end exploratory data analysis on a US retail Superstore dataset to uncover profit drivers, segment performance, regional trends, and the impact of discounting on margins. Complemented with an interactive Power BI dashboard for business reporting.
+
+#### Highlights
+
+- Loaded, cleaned, and feature-engineered a ~10,000-row retail sales dataset using Pandas.
+- Created derived features including Profit Margin, Order Month, Order Quarter, and Discount Bins.
+- Produced EDA visualizations: sales/profit distributions, category comparisons, segment boxplots, time-series trends, and regional summaries.
+- Identified top 10 most profitable products and ranked categories and sub-categories by profitability.
+- Quantified discount impact: orders with 26%+ discount average a −78% profit margin.
+- Analyzed customer segment value: Consumer leads in total sales; Home Office leads in average profit per order.
+- Found West region leads all regions in total profit; Q4 is the strongest quarter across all years.
+- Built a companion Power BI dashboard for interactive business reporting.
+
+#### Key Findings
+
+- Aggressive discounting is the single largest driver of profit loss across the dataset.
+- Technology category generates the highest profit despite lower order volume than Office Supplies.
+- Tables and Bookcases are consistent loss leaders driven by heavy discounting.
+- West region outperforms all others; Central region underperforms relative to its sales volume.
+
+#### Skills demonstrated
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Exploratory data analysis
+- Feature engineering
+- Business insight extraction
+- Time-series analysis
+- Power BI dashboard development
+- Data storytelling
