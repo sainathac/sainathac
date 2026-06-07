@@ -114,3 +114,55 @@ Designed and implemented an IoT-enabled automated drug dispensing system using E
 - Stepper motor control
 - Hardware validation
 - Reliability-focused system design
+
+## Deep Learning Lab Series
+
+This series contains cleaned TensorFlow/Keras learning labs published as separate repositories. They are structured as public educational projects rather than raw course assignment dumps.
+
+### Neural Network From Scratch
+
+Repository: https://github.com/sainathac/neural-network-from-scratch
+
+- Demonstrates feed-forward prediction, squared error, manual gradient calculation, and weight updates.
+- Uses a tiny two-input regression example to explain neural network fundamentals step by step.
+- Includes error and prediction progression plots across epochs.
+
+### MNIST Digit Classifier
+
+Repository: https://github.com/sainathac/mnist-digit-classifier
+
+- Trains a dense TensorFlow/Keras neural network on the MNIST handwritten digit dataset.
+- Covers normalization, one-hot encoding, training, evaluation, prediction, and training/validation plots.
+- Serves as a clean entry point into image classification with dense networks.
+
+### Fashion-MNIST Model Lifecycle
+
+Repository: https://github.com/sainathac/fashion-mnist-model-lifecycle
+
+- Trains a dense classifier on Fashion-MNIST and demonstrates a basic model lifecycle workflow.
+- Includes sample visualization, TensorBoard logging, evaluation, model saving, model loading, and parameter verification.
+- Highlights practical model management beyond raw training.
+
+### Cats vs Dogs CNN Classifier
+
+Repository: https://github.com/sainathac/cats-vs-dogs-cnn-classifier
+
+- Builds a convolutional neural network from scratch for cat and dog image classification.
+- Uses image augmentation, convolution/max-pooling blocks, and validation-based evaluation.
+- Demonstrates core computer vision workflow design in TensorFlow/Keras.
+
+### VGG16 Transfer Learning Classifier
+
+Repository: https://github.com/sainathac/vgg16-transfer-learning-classifier
+
+- Applies transfer learning with VGG16 pretrained on ImageNet for cats vs dogs classification.
+- Uses a frozen convolutional base with a custom dense classifier head and dropout regularization.
+- Demonstrates how pretrained visual features can accelerate image classification tasks.
+
+### IMDB Sentiment RNN
+
+Repository: https://github.com/sainathac/imdb-sentiment-rnn
+
+- Trains a SimpleRNN-based sentiment classifier on the Keras IMDB review dataset.
+- Covers vocabulary limiting, sequence padding, embeddings, validation, and test evaluation.
+- Serves as a baseline NLP deep learning project for sequence modeling and sentiment analysis.
