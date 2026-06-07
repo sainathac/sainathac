@@ -120,6 +120,12 @@ A cleaned TensorFlow/Keras lab series covering neural network fundamentals, dens
 5. [VGG16 Transfer Learning Classifier](https://github.com/sainathac/vgg16-transfer-learning-classifier)
 6. [IMDB Sentiment RNN](https://github.com/sainathac/imdb-sentiment-rnn)
 
+## Data Analytics Projects
+
+End-to-end data analysis projects using Python, Pandas, Matplotlib, Seaborn, and Power BI — covering EDA, business insight extraction, and interactive dashboards.
+
+- [Superstore Profit Analytics](https://github.com/sainathac/superstore-profit-analytics) — EDA on US retail sales data; profit drivers, segment analysis, regional trends, and discount impact study
+
 ## Education
 
 **Bachelor of Technology in Electronics and Communication Engineering**  
