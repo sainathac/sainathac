@@ -109,6 +109,17 @@ See [certifications.md](certifications.md) for the full certification list with 
 
 See [projects.md](projects.md) for expanded project summaries and portfolio-safe automation case studies.
 
+## Deep Learning Lab Series
+
+A cleaned TensorFlow/Keras lab series covering neural network fundamentals, dense classifiers, model lifecycle workflows, CNNs, transfer learning, and RNN-based sentiment analysis.
+
+1. [Neural Network From Scratch](https://github.com/sainathac/neural-network-from-scratch)
+2. [MNIST Digit Classifier](https://github.com/sainathac/mnist-digit-classifier)
+3. [Fashion-MNIST Model Lifecycle](https://github.com/sainathac/fashion-mnist-model-lifecycle)
+4. [Cats vs Dogs CNN Classifier](https://github.com/sainathac/cats-vs-dogs-cnn-classifier)
+5. [VGG16 Transfer Learning Classifier](https://github.com/sainathac/vgg16-transfer-learning-classifier)
+6. [IMDB Sentiment RNN](https://github.com/sainathac/imdb-sentiment-rnn)
+
 ## Education
 
 **Bachelor of Technology in Electronics and Communication Engineering**  
