@@ -19,12 +19,12 @@ I am also a BTech graduate in Electronics and Communication Engineering from **G
 
 ## Experience
 
-### RPA Developer / RPA Engineer - HachiAI
+### RPA Developer - HachiAI
 
 **Aug 2025 - Present | Hyderabad, India**
 
 - Own end-to-end automation delivery from requirement analysis and solution design to development, testing, launch, production support, and debugging.
-- Built a completed AI-assisted email triage and RPA automation workflow for finance inbox operations.
+- Built a completed AI-assisted email triage and automation workflow for finance inbox operations.
 - Designed automation logic for reading, classifying, routing, and processing finance-related emails.
 - Automated payment inquiry workflows using email parsing, invoice-reference extraction, system-status validation, and response generation.
 - Implemented exception handling and completed-item archiving to support review, tracking, and audit readiness.
