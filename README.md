@@ -10,7 +10,7 @@ I am also a BTech graduate in Electronics and Communication Engineering from **G
 
 ## Current Focus
 
-- AI-assisted RPA workflows for finance and business process automation
+- AI-assisted workflows for finance and business process automation
 - Python automation for email processing, Excel workflows, reconciliation, and reporting
 - LLM-integrated workflows using APIs and structured automation logic
 - SQL-based validation, data reconciliation, and operational reporting
@@ -48,7 +48,7 @@ I am also a BTech graduate in Electronics and Communication Engineering from **G
 
 **Sep 11, 2025 - Apr 24, 2026 | Completed**
 
-Built an end-to-end AI-assisted RPA automation workflow for finance inbox operations, covering planning, solution design, development, testing, launch, production support, and debugging.
+Built an end-to-end AI-assisted automation workflow for finance inbox operations, covering planning, solution design, development, testing, launch, production support, and debugging.
 
 - Designed and developed an automation system to read, classify, route, and process finance-related emails.
 - Automated handling of payment inquiry workflows by combining email parsing, invoice-reference extraction, system-status validation, and response generation.
